@@ -1,11 +1,13 @@
+
+
+<div dir="auto">
+  <center>مرحبا بكم في مجموعة python العربية</center>
+  
 - 👋 Hi, We're [arabipython](https://t.me/arabipython)
 - 👀 We're interested in python
 - 🌱 We're currently learning python
 - 💞️ We're looking to collaborate on python
 - 📫 How to reach me [https://t.me/arabipython](https://t.me/arabipython)
-
-<div dir="auto">
-مرحبا بكم في مجموعة python العربية
 </div>
 
 <!---
