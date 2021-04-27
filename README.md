@@ -1,7 +1,7 @@
 
 
 <div dir="auto">
-  <center>مرحبا بكم في مجموعة python العربية</center>
+  مرحبا بكم في مجموعة python العربية
 </div>
 
 - 👋 Hi, We're [arabipython](https://t.me/arabipython)
